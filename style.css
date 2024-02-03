@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    margin: 3px;
+    padding: 0px;
+}
+
+
+.calculator{
+    width: 300px;
+    margin: 20px auto;
+    background-color: gray;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.disp input{
+    width: 93%;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    text-align: right;
+}
+
+.btnParent{
+    margin-top: 4px;
+    text-align: center;
+}
+
+.btnParent button{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-size: 1.5em;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btnParent button:hover{
+    background-color: greenyellow;
+    color: white;
+}
+
